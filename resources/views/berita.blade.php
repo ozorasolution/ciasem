@@ -33,9 +33,9 @@
                                 <span class="d-date">11 September 2024</span>
                                 <span class="d-tags">Teknologi</span>
                             </div>
-                            <h4><a href="http://localhost:8000/berita/detail/4">BUMDES <span></span></a></h4>
+                            <h4><a href="{{ route('beritaDetail',4) }}">BUMDES <span></span></a></h4>
                             <p>Jumat, 16 Agustus 2024, Desa Ciasembaru mendapat kunjungan dari Kementerian Desa, PDTT untuk melakuk...</p>
-                            <a href="http://localhost:8000/berita/detail/4" class="btn-main">Baca selengkapnya</a>
+                            <a href="{{ route('beritaDetail',4) }}" class="btn-main">Baca selengkapnya</a>
                         </div>
                     </div>
                     <div class="de-post-type-1">
@@ -46,11 +46,11 @@
                             <div class="d-meta">
                                 <span class="d-by">By Creator</span>
                                 <span class="d-date">11 September 2024</span>
-                                <span class="d-tags">Teknologi</span>
+                                <span class="d-tags">Food</span>
                             </div>
-                            <h4><a href="http://localhost:8000/berita/detail/5">PMT (Pemberian Makanan Tambahan) <span></span></a></h4>
+                            <h4><a href="{{ route('beritaDetail',5) }}">PMT (Pemberian Makanan Tambahan)<span></span></a></h4>
                             <p>Dalam upaya meningkatkan kesehatan ibu hamil dan balita serta mencegah stunting, Kepala Desa Ciasemb...</p>
-                            <a href="http://localhost:8000/berita/detail/5" class="btn-main">Baca selengkapnya</a>
+                            <a href="{{ route('beritaDetail',5) }}" class="btn-main">Baca selengkapnya</a>
                         </div>
                     </div>
                     <div class="de-post-type-1">
@@ -61,11 +61,11 @@
                             <div class="d-meta">
                                 <span class="d-by">By Creator</span>
                                 <span class="d-date">11 September 2024</span>
-                                <span class="d-tags">Teknologi</span>
+                                <span class="d-tags">Pendidikan</span>
                             </div>
-                            <h4><a href="http://localhost:8000/berita/detail/6">Pelepasan KKN<span></span></a></h4>
+                            <h4><a href="{{ route('beritaDetail',6) }}">Pelepasan KKN<span></span></a></h4>
                             <p>Para mahasiswa Universitas Subang (UNSUB) yang telah melaksanakan program Kuliah Kerja Nyata (KKN) di Desa Ciasembaru, resmi ...</p>
-                            <a href="http://localhost:8000/berita/detail/6" class="btn-main">Baca selengkapnya</a>
+                            <a href="{{ route('beritaDetail',6) }}" class="btn-main">Baca selengkapnya</a>
                         </div>
                     </div>
                 </div>
