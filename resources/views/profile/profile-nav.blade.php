@@ -4,7 +4,7 @@
             <div class="img-profile">
                 <img src="https://puree.id/desa-api/uploads/{{ Auth::user()->pathGambar }}" alt="" onerror="this.style.display='none';">
             </div>
-            <div class="mt-2 text-center" >
+            <div class="mt-2 text-center">
                 <h4>
                     {{ Auth::user()->nama_lengkap }}
                     <span class="profile_username text-gray">{{ Auth::user()->nik }}</span>
