@@ -104,7 +104,7 @@
                             <div class="d-meta">
                                 <span class="d-by">By Creator</span>
                                 <span class="d-date">11 September 2024</span>
-                                <span class="d-tags">Teknologi</span>
+                                <span class="d-tags">Pendidikan</span>
                             </div>
                             <h4><a href="http://localhost:8000/berita/detail/6">Pelepasan KKN<span></span></a></h4>
                             <p>Para mahasiswa Universitas Subang (UNSUB) yang telah melaksanakan program Kuliah Kerja Nyata (KKN) di Desa Ciasembaru, resmi ...</p>
