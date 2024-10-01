@@ -49,7 +49,7 @@
                                     <label>Upload Dokumen Pendukung &nbsp<span data-bs-toggle="tooltip" data-bs-placement="right" title="Format dokumen yang didukung adalah .doc .docx .pdf .jpg .jpeg .png"><i class="fa fa-exclamation-circle"></i></span></label>
                                     <input type="file" name="dokumen" class="form-control mt-1">
                                 </div>
-                                <button type='button' id='ajukan' class="btn-main color-2 float-end mt-3">Daftar Sekarang</button>
+                                <button type='button' id='ajukan' class="btn-main color-2 float-end mt-3">Ajukan Aduan</button>
                             </form>
                         </div>
                     </div>
